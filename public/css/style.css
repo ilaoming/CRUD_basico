@@ -1,0 +1,23 @@
+body{
+    background: wheat;
+}
+
+h1{
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.container{
+    margin-top: 8rem !important;
+    background-color: rgb(122, 167, 167) !important;
+    display:block;
+    overflow:auto;
+    word-wrap: break-word;
+    background-color: azure;
+    padding: 2rem;
+    border-radius: 1rem;
+}
+
+table{
+    color: rgb(8, 8, 8) !important;
+}
